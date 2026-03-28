@@ -1,0 +1,2 @@
+<?php
+// Parches, pruebas de no regresión e informe final

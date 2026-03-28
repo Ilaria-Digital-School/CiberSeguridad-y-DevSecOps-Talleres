@@ -1,0 +1,1 @@
+// Auditoría completa (fase 2: explotación y evidencia)

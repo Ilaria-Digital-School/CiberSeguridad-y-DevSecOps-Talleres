@@ -1,0 +1,2 @@
+<?php
+// Crea y completa la cuadrícula de prueba

@@ -1,0 +1,2 @@
+<?php
+// Tráfico completo: desde la solicitud HTTP hasta la respuesta (diagrama anotado)

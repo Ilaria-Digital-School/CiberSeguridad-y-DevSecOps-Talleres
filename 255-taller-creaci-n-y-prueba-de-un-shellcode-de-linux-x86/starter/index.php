@@ -1,0 +1,2 @@
+<?php
+// Taller: creación y prueba de un shellcode de Linux x86

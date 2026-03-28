@@ -1,0 +1,1 @@
+// Agregue SCA Step a la canalización con umbrales

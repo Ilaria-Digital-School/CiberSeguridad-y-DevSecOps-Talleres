@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: instalación de Docker y lanzamiento del primer contenedor

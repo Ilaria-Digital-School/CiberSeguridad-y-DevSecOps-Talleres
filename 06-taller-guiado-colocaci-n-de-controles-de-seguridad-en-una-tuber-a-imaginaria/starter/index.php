@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: colocación de controles de seguridad en una tubería imaginaria

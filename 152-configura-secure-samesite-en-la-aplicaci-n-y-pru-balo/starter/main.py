@@ -1,0 +1,1 @@
+# Configura Secure & SameSite en la aplicación y pruébalo

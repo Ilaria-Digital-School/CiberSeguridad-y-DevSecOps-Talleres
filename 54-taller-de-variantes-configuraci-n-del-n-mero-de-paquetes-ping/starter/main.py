@@ -1,0 +1,1 @@
+# Taller de variantes: configuración del número de paquetes ping

@@ -1,0 +1,2 @@
+<?php
+// Taller: anonimización de un informe para su publicación

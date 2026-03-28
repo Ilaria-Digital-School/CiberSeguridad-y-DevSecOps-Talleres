@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: exploración de una imagen con Docker Inspect

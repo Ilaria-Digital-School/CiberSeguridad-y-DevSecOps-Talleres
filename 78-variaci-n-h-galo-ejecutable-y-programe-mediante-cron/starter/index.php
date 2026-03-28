@@ -1,0 +1,2 @@
+<?php
+// Variación: hágalo ejecutable y programe mediante cron

@@ -1,0 +1,2 @@
+<?php
+// Taller: Creación de una solicitud POST de CSRF en un formulario

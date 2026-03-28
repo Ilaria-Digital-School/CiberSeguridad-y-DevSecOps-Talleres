@@ -1,0 +1,2 @@
+<?php
+// Taller: captura de una captura de pantalla relevante

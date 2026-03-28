@@ -1,0 +1,2 @@
+<?php
+// Hilo rojo Paso 2: enriquecer los datos pasivos

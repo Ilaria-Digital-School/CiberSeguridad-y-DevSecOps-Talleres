@@ -1,0 +1,2 @@
+<?php
+// Primeros pasos con msfconsole: comandos esenciales

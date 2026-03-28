@@ -1,0 +1,2 @@
+<?php
+// Configure su libro de registro (notas estructuradas)

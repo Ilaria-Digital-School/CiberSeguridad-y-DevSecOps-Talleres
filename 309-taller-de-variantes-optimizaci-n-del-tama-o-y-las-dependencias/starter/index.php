@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: optimización del tamaño y las dependencias

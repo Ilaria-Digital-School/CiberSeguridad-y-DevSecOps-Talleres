@@ -1,0 +1,2 @@
+<?php
+// Taller: Cómo crear tu propia lista de verificación de XSS

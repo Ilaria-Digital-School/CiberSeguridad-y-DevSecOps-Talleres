@@ -1,0 +1,1 @@
+// Corrija una vulnerabilidad simple detectada por SAST

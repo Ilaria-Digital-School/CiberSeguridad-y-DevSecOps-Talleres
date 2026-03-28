@@ -1,0 +1,2 @@
+<?php
+// Ejecución local de Bandit en el proyecto de ejemplo

@@ -1,0 +1,2 @@
+<?php
+// Fase final 1: reconocimiento y explotación controlada

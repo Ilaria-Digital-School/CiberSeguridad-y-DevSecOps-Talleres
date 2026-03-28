@@ -1,0 +1,2 @@
+<?php
+// Taller: clasificación de los hallazgos según su prioridad

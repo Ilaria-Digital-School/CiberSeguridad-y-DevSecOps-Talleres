@@ -1,0 +1,2 @@
+<?php
+// Taller: corrección de atributos seguros en la lista blanca

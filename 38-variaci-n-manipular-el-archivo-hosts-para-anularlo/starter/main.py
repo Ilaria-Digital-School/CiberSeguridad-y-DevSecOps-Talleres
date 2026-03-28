@@ -1,0 +1,1 @@
+# Variación: manipular el archivo hosts para anularlo

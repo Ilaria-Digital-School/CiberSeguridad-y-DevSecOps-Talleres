@@ -1,0 +1,2 @@
+<?php
+// Miniproyecto: implementación de una aplicación reforzada en un clúster K8s con una canalización segura

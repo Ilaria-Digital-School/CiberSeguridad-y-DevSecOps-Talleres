@@ -1,0 +1,2 @@
+<?php
+// Taller: Cómo generar un PoC automático con Burp

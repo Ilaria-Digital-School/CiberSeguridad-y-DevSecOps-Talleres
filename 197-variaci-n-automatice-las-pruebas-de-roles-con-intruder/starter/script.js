@@ -1,0 +1,1 @@
+// Variación: Automatice las pruebas de roles con Intruder

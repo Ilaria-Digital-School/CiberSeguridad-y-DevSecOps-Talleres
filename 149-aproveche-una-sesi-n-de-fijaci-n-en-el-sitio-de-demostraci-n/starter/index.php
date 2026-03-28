@@ -1,0 +1,2 @@
+<?php
+// Aproveche una sesión de fijación en el sitio de demostración

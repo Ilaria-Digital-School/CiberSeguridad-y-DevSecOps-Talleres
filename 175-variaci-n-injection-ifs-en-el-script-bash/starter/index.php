@@ -1,0 +1,2 @@
+<?php
+// Variación: injection; |$IFS en el script bash

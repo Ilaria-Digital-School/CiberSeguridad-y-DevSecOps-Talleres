@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: Cómo encontrar un punto de inyección en una URL

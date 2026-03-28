@@ -1,0 +1,2 @@
+<?php
+// Configuración de una canalización de CI mínima (pruebas unitarias)

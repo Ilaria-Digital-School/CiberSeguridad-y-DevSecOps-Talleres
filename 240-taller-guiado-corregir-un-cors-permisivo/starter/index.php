@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: corregir un CORS permisivo

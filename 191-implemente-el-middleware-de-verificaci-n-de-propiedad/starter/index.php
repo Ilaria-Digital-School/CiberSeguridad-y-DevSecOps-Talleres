@@ -1,0 +1,2 @@
+<?php
+// Implemente el middleware de verificación de propiedad

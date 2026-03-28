@@ -1,0 +1,2 @@
+<?php
+// Escribe un miniscript de inyección de fuzz en Python

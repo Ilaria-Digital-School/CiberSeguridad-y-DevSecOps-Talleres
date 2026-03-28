@@ -1,0 +1,1 @@
+// Interpretar la salida SAST (guiada)

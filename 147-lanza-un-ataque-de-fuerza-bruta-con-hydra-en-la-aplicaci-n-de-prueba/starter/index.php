@@ -1,0 +1,2 @@
+<?php
+// Lanza un ataque de fuerza bruta con Hydra en la aplicación de prueba

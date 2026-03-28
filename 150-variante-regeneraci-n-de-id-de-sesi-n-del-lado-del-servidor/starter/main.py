@@ -1,0 +1,1 @@
+# Variante: regeneración de ID de sesión del lado del servidor

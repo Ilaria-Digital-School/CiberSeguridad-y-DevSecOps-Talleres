@@ -1,0 +1,2 @@
+<?php
+// Variación: cambiar la carga útil reverse_tcp ↔ bind_tcp

@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: nslookup: recuperación de registros A y MX

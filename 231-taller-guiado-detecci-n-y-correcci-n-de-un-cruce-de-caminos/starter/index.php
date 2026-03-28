@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: detección y corrección de un cruce de caminos

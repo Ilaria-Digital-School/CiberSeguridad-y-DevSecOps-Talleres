@@ -1,0 +1,1 @@
+// Taller de variantes: escanea tu imagen con Trivy

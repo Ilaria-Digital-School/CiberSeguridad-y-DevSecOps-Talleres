@@ -1,0 +1,1 @@
+# Variación práctica: escanear un servicio HTTP con auxiliary/scanner/http

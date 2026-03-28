@@ -1,0 +1,2 @@
+<?php
+// Exploración guiada de un formulario de inicio de sesión en el navegador

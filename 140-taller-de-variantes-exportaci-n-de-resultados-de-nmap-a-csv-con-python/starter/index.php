@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: exportación de resultados de Nmap a CSV con Python

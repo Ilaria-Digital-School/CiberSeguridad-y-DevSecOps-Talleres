@@ -1,0 +1,2 @@
+<?php
+// Búsqueda y explotación de parámetros de contaminación

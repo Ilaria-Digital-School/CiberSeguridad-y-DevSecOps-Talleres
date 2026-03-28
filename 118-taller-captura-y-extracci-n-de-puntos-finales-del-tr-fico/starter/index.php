@@ -1,0 +1,2 @@
+<?php
+// Taller: captura y extracción de puntos finales del tráfico

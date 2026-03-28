@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: integración de ClamAV en el flujo de carga

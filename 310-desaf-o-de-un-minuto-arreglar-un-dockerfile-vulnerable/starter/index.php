@@ -1,0 +1,2 @@
+<?php
+// Desafío de un minuto: arreglar un Dockerfile vulnerable

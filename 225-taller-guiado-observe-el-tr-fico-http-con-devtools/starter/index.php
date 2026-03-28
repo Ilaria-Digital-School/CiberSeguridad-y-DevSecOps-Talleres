@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: observe el tráfico HTTP con DevTools

@@ -1,0 +1,2 @@
+<?php
+// Aprovechar una configuración de ping vulnerable a través de &&whoami

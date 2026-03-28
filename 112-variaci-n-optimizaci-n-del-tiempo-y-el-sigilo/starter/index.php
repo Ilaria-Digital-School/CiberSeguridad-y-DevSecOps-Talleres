@@ -1,0 +1,2 @@
+<?php
+// Variación: optimización del tiempo y el sigilo

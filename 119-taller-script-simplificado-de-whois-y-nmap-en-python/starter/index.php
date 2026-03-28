@@ -1,0 +1,2 @@
+<?php
+// Taller: script simplificado de whois y nmap en Python

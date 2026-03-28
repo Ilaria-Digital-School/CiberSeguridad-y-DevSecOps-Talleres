@@ -1,0 +1,2 @@
+<?php
+// Utilice códigos de respaldo para la omisión de MFA

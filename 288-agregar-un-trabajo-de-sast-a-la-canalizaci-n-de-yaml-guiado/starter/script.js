@@ -1,0 +1,1 @@
+// Agregar un trabajo de SAST a la canalización de YAML (guiado)

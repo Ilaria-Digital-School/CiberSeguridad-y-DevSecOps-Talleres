@@ -1,0 +1,2 @@
+<?php
+// Simulación de revisión cruzada del modelo de API meteorológica

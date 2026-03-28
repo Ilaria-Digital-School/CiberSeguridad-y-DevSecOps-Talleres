@@ -1,0 +1,2 @@
+<?php
+// Variación: observe el impacto en Burp Repeater

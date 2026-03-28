@@ -1,0 +1,2 @@
+<?php
+// Ajuste del oleoducto: integración de un filtro de seguridad

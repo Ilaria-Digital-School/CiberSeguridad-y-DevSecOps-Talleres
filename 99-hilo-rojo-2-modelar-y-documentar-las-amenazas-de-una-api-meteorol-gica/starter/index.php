@@ -1,0 +1,2 @@
+<?php
+// Hilo rojo 2: modelar y documentar las amenazas de una API meteorológica

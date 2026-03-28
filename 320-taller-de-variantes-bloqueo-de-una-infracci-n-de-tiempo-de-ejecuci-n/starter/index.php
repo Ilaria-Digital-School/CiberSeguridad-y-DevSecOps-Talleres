@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: bloqueo de una infracción de tiempo de ejecución

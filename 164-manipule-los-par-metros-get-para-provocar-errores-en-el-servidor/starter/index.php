@@ -1,0 +1,2 @@
+<?php
+// Manipule los parámetros GET para provocar errores en el servidor

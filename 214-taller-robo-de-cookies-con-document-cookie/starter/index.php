@@ -1,0 +1,2 @@
+<?php
+// Taller — Robo de cookies con document.cookie

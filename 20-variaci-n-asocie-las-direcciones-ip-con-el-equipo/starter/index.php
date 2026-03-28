@@ -1,0 +1,2 @@
+<?php
+// Variación: asocie las direcciones IP con el equipo

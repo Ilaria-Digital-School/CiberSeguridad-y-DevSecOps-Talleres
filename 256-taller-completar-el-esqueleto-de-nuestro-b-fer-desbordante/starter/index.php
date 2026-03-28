@@ -1,0 +1,2 @@
+<?php
+// Taller: completar el esqueleto de nuestro búfer desbordante

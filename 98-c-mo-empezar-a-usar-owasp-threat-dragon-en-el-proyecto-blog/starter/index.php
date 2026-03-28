@@ -1,0 +1,2 @@
+<?php
+// Cómo empezar a usar OWASP Threat Dragon en el proyecto Blog

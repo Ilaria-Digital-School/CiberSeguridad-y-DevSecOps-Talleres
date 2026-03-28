@@ -1,0 +1,2 @@
+<?php
+// Minitaller: redacción de la sección de riesgos con la puntuación CVSS

@@ -1,0 +1,1 @@
+// Detecte secretos codificados mediante un escáner

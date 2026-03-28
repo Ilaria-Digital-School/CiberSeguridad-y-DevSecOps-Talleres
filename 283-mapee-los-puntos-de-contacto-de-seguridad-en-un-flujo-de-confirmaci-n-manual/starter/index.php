@@ -1,0 +1,2 @@
+<?php
+// Mapee los puntos de contacto de seguridad en un flujo de confirmación manual

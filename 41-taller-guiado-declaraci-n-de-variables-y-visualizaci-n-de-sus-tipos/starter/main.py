@@ -1,0 +1,1 @@
+# Taller guiado: declaración de variables y visualización de sus tipos

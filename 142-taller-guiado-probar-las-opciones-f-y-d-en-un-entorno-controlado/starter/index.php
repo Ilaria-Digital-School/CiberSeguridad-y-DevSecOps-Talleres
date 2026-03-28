@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: probar las opciones -f y -D en un entorno controlado

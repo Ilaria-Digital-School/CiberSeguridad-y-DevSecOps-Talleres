@@ -1,0 +1,2 @@
+<?php
+// Descubre las páginas públicas y privadas de una miniaplicación

@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: primer escaneo ICMP con Nmap

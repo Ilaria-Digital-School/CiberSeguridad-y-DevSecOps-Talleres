@@ -1,0 +1,2 @@
+<?php
+// Refactorizar el código para consultas preparadas (SQL): guiado

@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: encontrar su IP y puertos abiertos (netstat)

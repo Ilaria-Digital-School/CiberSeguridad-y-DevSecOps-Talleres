@@ -1,0 +1,2 @@
+<?php
+// Miniproyecto — Minisitio vulnerable: pruebe XSS + CSRF

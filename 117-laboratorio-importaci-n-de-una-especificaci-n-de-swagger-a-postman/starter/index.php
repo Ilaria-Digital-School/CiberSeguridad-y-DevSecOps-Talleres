@@ -1,0 +1,2 @@
+<?php
+// Laboratorio: Importación de una especificación de Swagger a Postman

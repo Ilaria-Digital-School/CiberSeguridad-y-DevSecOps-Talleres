@@ -1,0 +1,2 @@
+<?php
+// Ajustar y probar la caducidad en la aplicación

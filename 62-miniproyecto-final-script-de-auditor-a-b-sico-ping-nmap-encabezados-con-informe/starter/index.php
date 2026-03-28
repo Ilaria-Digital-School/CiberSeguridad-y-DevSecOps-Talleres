@@ -1,0 +1,2 @@
+<?php
+// Miniproyecto final: script de auditoría básico (ping, nmap, encabezados) con informe

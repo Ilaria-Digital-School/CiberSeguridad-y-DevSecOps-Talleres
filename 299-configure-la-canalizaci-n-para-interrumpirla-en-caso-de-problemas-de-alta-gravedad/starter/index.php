@@ -1,0 +1,2 @@
+<?php
+// Configure la canalización para interrumpirla en caso de problemas de alta gravedad

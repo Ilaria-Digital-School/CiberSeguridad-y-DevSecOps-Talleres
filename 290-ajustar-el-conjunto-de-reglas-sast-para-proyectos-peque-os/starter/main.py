@@ -1,0 +1,1 @@
+# Ajustar el conjunto de reglas SAST para proyectos pequeños

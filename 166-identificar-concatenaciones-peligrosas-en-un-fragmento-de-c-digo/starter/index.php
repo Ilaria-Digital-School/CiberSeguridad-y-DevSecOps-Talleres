@@ -1,0 +1,2 @@
+<?php
+// Identificar concatenaciones peligrosas en un fragmento de código

@@ -1,0 +1,2 @@
+<?php
+// Crear un repositorio de Git y firmar la confirmación

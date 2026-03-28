@@ -1,0 +1,2 @@
+<?php
+// Laboratorio: opciones -sV y -O para la detección de versiones

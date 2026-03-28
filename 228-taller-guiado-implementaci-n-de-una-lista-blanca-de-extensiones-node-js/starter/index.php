@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: implementación de una lista blanca de extensiones (Node.js)

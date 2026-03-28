@@ -1,0 +1,1 @@
+// Ejecute el escaneo de SCA en las dependencias

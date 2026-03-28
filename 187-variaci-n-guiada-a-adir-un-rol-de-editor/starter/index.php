@@ -1,0 +1,2 @@
+<?php
+// Variación guiada: añadir un rol de «editor»

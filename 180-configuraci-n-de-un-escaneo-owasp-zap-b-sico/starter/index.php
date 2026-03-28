@@ -1,0 +1,2 @@
+<?php
+// Configuración de un escaneo OWASP ZAP básico

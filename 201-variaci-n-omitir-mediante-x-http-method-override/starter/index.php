@@ -1,0 +1,2 @@
+<?php
+// Variación: Omitir mediante X-HTTP-Method-Override

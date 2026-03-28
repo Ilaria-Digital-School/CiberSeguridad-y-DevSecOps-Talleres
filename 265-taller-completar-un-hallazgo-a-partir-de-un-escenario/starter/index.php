@@ -1,0 +1,2 @@
+<?php
+// Taller: completar un hallazgo a partir de un escenario

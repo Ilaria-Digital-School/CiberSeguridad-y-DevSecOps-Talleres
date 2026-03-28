@@ -1,0 +1,2 @@
+<?php
+// Usa Intruder para automatizar un diccionario de contraseñas

@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: escaneo de los 10 puertos principales de una máquina virtual de destino

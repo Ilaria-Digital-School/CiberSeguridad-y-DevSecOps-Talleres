@@ -1,0 +1,1 @@
+// Oculta una página /admin en la interfaz de usuario y accede a ella

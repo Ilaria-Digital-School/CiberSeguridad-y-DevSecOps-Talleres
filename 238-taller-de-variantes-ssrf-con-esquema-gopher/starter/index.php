@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: SSRF con esquema Gopher

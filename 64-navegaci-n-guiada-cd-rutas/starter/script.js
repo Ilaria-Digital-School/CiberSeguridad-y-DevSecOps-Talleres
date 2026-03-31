@@ -1,1 +1,0 @@
-// Navegación guiada (cd, rutas)

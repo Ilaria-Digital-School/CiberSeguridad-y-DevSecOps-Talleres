@@ -1,1 +1,0 @@
-# Taller guiado: script que ejecuta 'ping' y guarda la salida

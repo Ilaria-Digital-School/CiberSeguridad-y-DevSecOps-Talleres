@@ -1,1 +1,0 @@
-# Identifique las amenazas de STRIDE en el DFD (guiado)

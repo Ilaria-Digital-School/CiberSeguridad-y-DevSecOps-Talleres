@@ -1,1 +1,0 @@
-# Taller guiado: configuración de una regla básica previa a la confirmación

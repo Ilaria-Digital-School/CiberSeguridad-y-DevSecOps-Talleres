@@ -1,2 +1,0 @@
-<?php
-// Hilo rojo: creación de una matriz de amenazas completa para el blog

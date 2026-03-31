@@ -1,1 +1,0 @@
-# Asocie los escenarios de riesgo con los 10 principales de OWASP (mapas)

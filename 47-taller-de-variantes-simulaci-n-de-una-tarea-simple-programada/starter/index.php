@@ -1,2 +1,0 @@
-<?php
-// Taller de variantes: simulación de una tarea simple programada

@@ -1,2 +1,0 @@
-<?php
-// Taller guiado: administración de FileNotFoundError en el registro

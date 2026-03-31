@@ -1,1 +1,0 @@
-// Lea una trama Ethernet capturada

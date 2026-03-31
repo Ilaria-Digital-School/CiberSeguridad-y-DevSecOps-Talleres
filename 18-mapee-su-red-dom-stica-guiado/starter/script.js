@@ -1,1 +1,0 @@
-// Mapee su red doméstica (guiado)

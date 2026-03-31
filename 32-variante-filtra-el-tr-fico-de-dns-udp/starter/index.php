@@ -1,2 +1,0 @@
-<?php
-// Variante: filtra el tráfico de DNS UDP

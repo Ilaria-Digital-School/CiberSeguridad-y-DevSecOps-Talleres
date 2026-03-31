@@ -1,2 +1,0 @@
-<?php
-// Adaptación de los principios a un microservicio de carga de archivos

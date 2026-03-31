@@ -1,1 +1,0 @@
-# Adaptación de la lista de verificación a una API pública de terceros (variante)

@@ -1,2 +1,0 @@
-<?php
-// Clasifique los impactos de la CIA en los activos de Todo List

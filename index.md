@@ -10,3 +10,7 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 
 [Ver el taller completo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/)
 
+## Talleres
+
+01. [Taller guiado: asocia cada término con un caso concreto](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/199148a4-3b3c-4cd1-aa90-e070c5815472/taller-guiado-asocia-cada-trmino-con-un-caso-concreto)
+

@@ -7,3 +7,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 ## Talleres
 
 - [01. Taller guiado: asocia cada término con un caso concreto](01-taller-guiado-asocia-cada-t-rmino-con-un-caso-concreto/)
+- [02. Taller guiado: identificación del pilar de la CIA amenazado](02-taller-guiado-identificaci-n-del-pilar-de-la-cia-amenazado/)

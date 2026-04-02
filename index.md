@@ -13,4 +13,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 ## Talleres
 
 01. [Taller guiado: asocia cada término con un caso concreto](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/199148a4-3b3c-4cd1-aa90-e070c5815472/taller-guiado-asocia-cada-trmino-con-un-caso-concreto)
+02. [Taller guiado: identificación del pilar de la CIA amenazado](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/15f46b2e-1139-4bb3-97f3-581fd6a9cb77/taller-guiado-identificacin-del-pilar-de-la-cia-amenazado)
 

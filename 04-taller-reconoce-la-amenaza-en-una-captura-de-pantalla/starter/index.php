@@ -1,0 +1,2 @@
+<?php
+// Taller: reconoce la amenaza en una captura de pantalla

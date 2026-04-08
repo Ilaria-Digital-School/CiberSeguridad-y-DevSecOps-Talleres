@@ -16,4 +16,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 02. [Taller: identificación del pilar de la CIA amenazado](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/15f46b2e-1139-4bb3-97f3-581fd6a9cb77/taller-identificacin-del-pilar-de-la-cia-amenazado)
 03. [Taller de : creación de tus propios ejemplos de amenazas](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/63e946e2-25de-4819-b20d-94fd23358fd1/taller-de-creacin-de-tus-propios-ejemplos-de-amenazas)
 04. [Taller: reconoce la amenaza en una captura de pantalla](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/30e94646-ead2-4248-abc9-b53624739b32/taller-reconoce-la-amenaza-en-una-captura-de-pantalla)
+05. [Taller: visualización de una canalización de CI/CD simplificada](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/b9dd1c8c-9993-48d2-ac5e-db22a8944c85/taller-visualizacin-de-una-canalizacin-de-ci-cd-simplificada)
 

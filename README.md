@@ -10,3 +10,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [02. Taller: identificación del pilar de la CIA amenazado](02-taller-identificaci-n-del-pilar-de-la-cia-amenazado/)
 - [03. Taller de : creación de tus propios ejemplos de amenazas](03-taller-de-creaci-n-de-tus-propios-ejemplos-de-amenazas/)
 - [04. Taller: reconoce la amenaza en una captura de pantalla](04-taller-reconoce-la-amenaza-en-una-captura-de-pantalla/)
+- [05. Taller: visualización de una canalización de CI/CD simplificada](05-taller-visualizaci-n-de-una-canalizaci-n-de-ci-cd-simplificada/)

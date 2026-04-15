@@ -13,3 +13,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [05. Taller: visualización de una canalización de CI/CD simplificada](05-taller-visualizaci-n-de-una-canalizaci-n-de-ci-cd-simplificada/)
 - [06. Taller: colocación de controles de seguridad en una tubería imaginaria](06-taller-colocaci-n-de-controles-de-seguridad-en-una-tuber-a-imaginaria/)
 - [07. Taller de : adaptación de una canalización segura a un proyecto de comercio electrónico](07-taller-de-adaptaci-n-de-una-canalizaci-n-segura-a-un-proyecto-de-comercio-electr-nico/)
+- [08. Miniproyecto : escribir una historia de usuario orientada a la seguridad](08-miniproyecto-escribir-una-historia-de-usuario-orientada-a-la-seguridad/)

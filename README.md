@@ -14,3 +14,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [06. Taller: colocación de controles de seguridad en una tubería imaginaria](06-taller-colocaci-n-de-controles-de-seguridad-en-una-tuber-a-imaginaria/)
 - [07. Taller de : adaptación de una canalización segura a un proyecto de comercio electrónico](07-taller-de-adaptaci-n-de-una-canalizaci-n-segura-a-un-proyecto-de-comercio-electr-nico/)
 - [08. Miniproyecto : escribir una historia de usuario orientada a la seguridad](08-miniproyecto-escribir-una-historia-de-usuario-orientada-a-la-seguridad/)
+- [09. Taller: instalación y verificación de la máquina virtual del laboratorio](09-taller-instalaci-n-y-verificaci-n-de-la-m-quina-virtual-del-laboratorio/)

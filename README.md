@@ -16,3 +16,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [08. Miniproyecto : escribir una historia de usuario orientada a la seguridad](08-miniproyecto-escribir-una-historia-de-usuario-orientada-a-la-seguridad/)
 - [09. Taller: instalación y verificación de la máquina virtual del laboratorio](09-taller-instalaci-n-y-verificaci-n-de-la-m-quina-virtual-del-laboratorio/)
 - [10. Taller: primeras manipulaciones de Git (clonar, confirmar)](10-taller-primeras-manipulaciones-de-git-clonar-confirmar/)
+- [11. Taller: simular un secreto cometido y corregirlo](11-taller-simular-un-secreto-cometido-y-corregirlo/)

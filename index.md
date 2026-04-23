@@ -23,4 +23,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 09. [Taller: instalación y verificación de la máquina virtual del laboratorio](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/206e3fd8-15af-4198-857b-aeee9c52f362/taller-instalacin-y-verificacin-de-la-mquina-virtual-del-laboratorio)
 10. [Taller: primeras manipulaciones de Git (clonar, confirmar)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/228f4529-0e0f-498f-b314-f47f65e3f45e/taller-primeras-manipulaciones-de-git-clonar-confirmar)
 11. [Taller: simular un secreto cometido y corregirlo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/794de7a1-bc45-4e64-8c68-3ff4685eddb7/taller-simular-un-secreto-cometido-y-corregirlo)
+12. [Taller: configuración de una regla básica previa a la confirmación](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/b76723de-7e61-480e-b921-2ed2b0ed6c19/taller-configuracin-de-una-regla-bsica-previa-a-la-confirmacin)
 

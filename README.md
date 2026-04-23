@@ -17,3 +17,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [09. Taller: instalación y verificación de la máquina virtual del laboratorio](09-taller-instalaci-n-y-verificaci-n-de-la-m-quina-virtual-del-laboratorio/)
 - [10. Taller: primeras manipulaciones de Git (clonar, confirmar)](10-taller-primeras-manipulaciones-de-git-clonar-confirmar/)
 - [11. Taller: simular un secreto cometido y corregirlo](11-taller-simular-un-secreto-cometido-y-corregirlo/)
+- [12. Taller: configuración de una regla básica previa a la confirmación](12-taller-configuraci-n-de-una-regla-b-sica-previa-a-la-confirmaci-n/)

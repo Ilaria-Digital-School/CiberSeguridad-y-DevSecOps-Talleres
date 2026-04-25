@@ -24,4 +24,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 10. [Taller: primeras manipulaciones de Git (clonar, confirmar)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/228f4529-0e0f-498f-b314-f47f65e3f45e/taller-primeras-manipulaciones-de-git-clonar-confirmar)
 11. [Taller: simular un secreto cometido y corregirlo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/794de7a1-bc45-4e64-8c68-3ff4685eddb7/taller-simular-un-secreto-cometido-y-corregirlo)
 12. [Taller: configuración de una regla básica previa a la confirmación](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/b76723de-7e61-480e-b921-2ed2b0ed6c19/taller-configuracin-de-una-regla-bsica-previa-a-la-confirmacin)
+13. [Taller: mapeo de las 10 mejores empresas de OWASP en proceso](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/229e9463-a466-4811-9956-e466f5b8477b/taller-mapeo-de-las-10-mejores-empresas-de-owasp-en-proceso)
 

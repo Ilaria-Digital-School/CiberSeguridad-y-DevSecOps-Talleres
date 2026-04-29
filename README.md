@@ -19,3 +19,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [11. Taller: simular un secreto cometido y corregirlo](11-taller-simular-un-secreto-cometido-y-corregirlo/)
 - [12. Taller: configuración de una regla básica previa a la confirmación](12-taller-configuraci-n-de-una-regla-b-sica-previa-a-la-confirmaci-n/)
 - [13. Taller: mapeo de las 10 mejores empresas de OWASP en proceso](13-taller-mapeo-de-las-10-mejores-empresas-de-owasp-en-proceso/)
+- [14. Taller: colocación de pruebas de seguridad en un flujo de trabajo existente](14-taller-colocaci-n-de-pruebas-de-seguridad-en-un-flujo-de-trabajo-existente/)
+- [15. Miniproyecto: cree una minicanalización de YAML con pasos de seguridad comentados](15-miniproyecto-cree-una-minicanalizaci-n-de-yaml-con-pasos-de-seguridad-comentados/)

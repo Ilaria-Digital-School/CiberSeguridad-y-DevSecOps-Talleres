@@ -1,0 +1,2 @@
+<?php
+// Taller: extracción de información clave del informe

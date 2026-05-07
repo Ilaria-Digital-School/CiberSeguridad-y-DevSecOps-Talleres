@@ -23,3 +23,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [15. Miniproyecto: cree una minicanalización de YAML con pasos de seguridad comentados](15-miniproyecto-cree-una-minicanalizaci-n-de-yaml-con-pasos-de-seguridad-comentados/)
 - [16. Taller: extracción de información clave del informe](16-taller-extracci-n-de-informaci-n-clave-del-informe/)
 - [17. Taller de : redacción de un microinforme sobre un error imaginario](17-taller-de-redacci-n-de-un-microinforme-sobre-un-error-imaginario/)
+- [18. Mapee su red doméstica](18-mapee-su-red-dom-stica/)

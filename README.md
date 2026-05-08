@@ -24,3 +24,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [16. Taller: extracción de información clave del informe](16-taller-extracci-n-de-informaci-n-clave-del-informe/)
 - [17. Taller de : redacción de un microinforme sobre un error imaginario](17-taller-de-redacci-n-de-un-microinforme-sobre-un-error-imaginario/)
 - [18. Mapee su red doméstica](18-mapee-su-red-dom-stica/)
+- [19. Observe un paquete ICMP con ping](19-observe-un-paquete-icmp-con-ping/)

@@ -31,4 +31,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 17. [Taller de : redacción de un microinforme sobre un error imaginario](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/9adaf497-120b-4302-bb66-548483ef7fcc/facd8354-ce37-4237-bbf0-40a06c727d24/taller-de-redaccin-de-un-microinforme-sobre-un-error-imaginario)
 18. [Mapee su red doméstica](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/03dcc27d-e25c-4971-9452-70fe9566d2c1/mapee-su-red-domstica)
 19. [Observe un paquete ICMP con ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/30201cb9-2283-4e2d-85dd-d34f39d7133a/observe-un-paquete-icmp-con-ping)
+20. [Asocie las direcciones IP con el equipo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/4882e9f4-23c7-4de8-8580-3df2084accf2/asocie-las-direcciones-ip-con-el-equipo)
 

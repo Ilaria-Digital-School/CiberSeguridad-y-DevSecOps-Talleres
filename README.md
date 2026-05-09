@@ -25,3 +25,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [17. Taller de : redacción de un microinforme sobre un error imaginario](17-taller-de-redacci-n-de-un-microinforme-sobre-un-error-imaginario/)
 - [18. Mapee su red doméstica](18-mapee-su-red-dom-stica/)
 - [19. Observe un paquete ICMP con ping](19-observe-un-paquete-icmp-con-ping/)
+- [20. Asocie las direcciones IP con el equipo](20-asocie-las-direcciones-ip-con-el-equipo/)

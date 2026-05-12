@@ -32,4 +32,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 18. [Mapee su red doméstica](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/03dcc27d-e25c-4971-9452-70fe9566d2c1/mapee-su-red-domstica)
 19. [Observe un paquete ICMP con ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/30201cb9-2283-4e2d-85dd-d34f39d7133a/observe-un-paquete-icmp-con-ping)
 20. [Asocie las direcciones IP con el equipo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/4882e9f4-23c7-4de8-8580-3df2084accf2/asocie-las-direcciones-ip-con-el-equipo)
+21. [Visualice un flujo de red con un simulador en línea](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/fc7d5004-4457-49b4-8bb0-d000d2419545/visualice-un-flujo-de-red-con-un-simulador-en-lnea)
 

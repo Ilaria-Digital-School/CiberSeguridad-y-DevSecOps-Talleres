@@ -26,3 +26,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [18. Mapee su red doméstica](18-mapee-su-red-dom-stica/)
 - [19. Observe un paquete ICMP con ping](19-observe-un-paquete-icmp-con-ping/)
 - [20. Asocie las direcciones IP con el equipo](20-asocie-las-direcciones-ip-con-el-equipo/)
+- [21. Visualice un flujo de red con un simulador en línea](21-visualice-un-flujo-de-red-con-un-simulador-en-l-nea/)

@@ -33,4 +33,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 19. [Observe un paquete ICMP con ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/30201cb9-2283-4e2d-85dd-d34f39d7133a/observe-un-paquete-icmp-con-ping)
 20. [Asocie las direcciones IP con el equipo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/4882e9f4-23c7-4de8-8580-3df2084accf2/asocie-las-direcciones-ip-con-el-equipo)
 21. [Visualice un flujo de red con un simulador en línea](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/fc7d5004-4457-49b4-8bb0-d000d2419545/visualice-un-flujo-de-red-con-un-simulador-en-lnea)
+22. [Apila los pañales (actividad virtual de Lego)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/47a2d8de-306d-4e77-bb3c-cf1d5d55b0d2/apila-los-paales-actividad-virtual-de-lego)
 

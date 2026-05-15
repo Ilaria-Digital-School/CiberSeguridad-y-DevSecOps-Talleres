@@ -28,3 +28,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [20. Asocie las direcciones IP con el equipo](20-asocie-las-direcciones-ip-con-el-equipo/)
 - [21. Visualice un flujo de red con un simulador en línea](21-visualice-un-flujo-de-red-con-un-simulador-en-l-nea/)
 - [22. Apila los pañales (actividad virtual de Lego)](22-apila-los-pa-ales-actividad-virtual-de-lego/)
+- [23. Elegir el cable correcto (escenario interactivo)](23-elegir-el-cable-correcto-escenario-interactivo/)

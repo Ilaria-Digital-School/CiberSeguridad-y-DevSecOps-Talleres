@@ -35,4 +35,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 21. [Visualice un flujo de red con un simulador en línea](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/fc7d5004-4457-49b4-8bb0-d000d2419545/visualice-un-flujo-de-red-con-un-simulador-en-lnea)
 22. [Apila los pañales (actividad virtual de Lego)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/47a2d8de-306d-4e77-bb3c-cf1d5d55b0d2/apila-los-paales-actividad-virtual-de-lego)
 23. [Elegir el cable correcto (escenario interactivo)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/4d175dc7-5ac2-4e96-badc-632c58fa3d9c/elegir-el-cable-correcto-escenario-interactivo)
+24. [Lea una trama Ethernet capturada](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/c84491c5-190d-4210-ab9e-61be40fa9c0b/lea-una-trama-ethernet-capturada)
 

@@ -29,3 +29,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [21. Visualice un flujo de red con un simulador en línea](21-visualice-un-flujo-de-red-con-un-simulador-en-l-nea/)
 - [22. Apila los pañales (actividad virtual de Lego)](22-apila-los-pa-ales-actividad-virtual-de-lego/)
 - [23. Elegir el cable correcto (escenario interactivo)](23-elegir-el-cable-correcto-escenario-interactivo/)
+- [24. Lea una trama Ethernet capturada](24-lea-una-trama-ethernet-capturada/)

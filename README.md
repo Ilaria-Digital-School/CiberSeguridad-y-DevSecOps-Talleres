@@ -31,3 +31,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [23. Elegir el cable correcto (escenario interactivo)](23-elegir-el-cable-correcto-escenario-interactivo/)
 - [24. Lea una trama Ethernet capturada](24-lea-una-trama-ethernet-capturada/)
 - [25. Identifica errores en un marco](25-identifica-errores-en-un-marco/)
+- [26. Usa traceroute para ver los saltos](26-usa-traceroute-para-ver-los-saltos/)

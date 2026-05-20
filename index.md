@@ -37,4 +37,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 23. [Elegir el cable correcto (escenario interactivo)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/4d175dc7-5ac2-4e96-badc-632c58fa3d9c/elegir-el-cable-correcto-escenario-interactivo)
 24. [Lea una trama Ethernet capturada](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/c84491c5-190d-4210-ab9e-61be40fa9c0b/lea-una-trama-ethernet-capturada)
 25. [Identifica errores en un marco](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/4e9b2bb1-9290-4d55-a582-eb209a84b0d7/identifica-errores-en-un-marco)
+26. [Usa traceroute para ver los saltos](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/bb245b55-b39a-4548-9879-14af6f9b4d50/usa-traceroute-para-ver-los-saltos)
 

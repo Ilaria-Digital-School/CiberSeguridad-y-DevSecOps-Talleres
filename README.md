@@ -32,3 +32,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [24. Lea una trama Ethernet capturada](24-lea-una-trama-ethernet-capturada/)
 - [25. Identifica errores en un marco](25-identifica-errores-en-un-marco/)
 - [26. Usa traceroute para ver los saltos](26-usa-traceroute-para-ver-los-saltos/)
+- [27. Analiza una salida de traceroute](27-analiza-una-salida-de-traceroute/)
+- [28. Miniproyecto de puesta en marcha: documentar la ruta de un paquete a un sitio web](28-miniproyecto-de-puesta-en-marcha-documentar-la-ruta-de-un-paquete-a-un-sitio-web/)

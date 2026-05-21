@@ -38,4 +38,6 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 24. [Lea una trama Ethernet capturada](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/c84491c5-190d-4210-ab9e-61be40fa9c0b/lea-una-trama-ethernet-capturada)
 25. [Identifica errores en un marco](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/4e9b2bb1-9290-4d55-a582-eb209a84b0d7/identifica-errores-en-un-marco)
 26. [Usa traceroute para ver los saltos](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/bb245b55-b39a-4548-9879-14af6f9b4d50/usa-traceroute-para-ver-los-saltos)
+27. [Analiza una salida de traceroute](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/aede4401-f6bc-4f44-89dd-b555f1961007/analiza-una-salida-de-traceroute)
+28. [Miniproyecto de puesta en marcha: documentar la ruta de un paquete a un sitio web](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/e9b82e18-9920-4784-a20f-494bd03ac0e3/miniproyecto-de-puesta-en-marcha-documentar-la-ruta-de-un-paquete-a-un-sitio-web)
 

@@ -40,4 +40,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 26. [Usa traceroute para ver los saltos](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/bb245b55-b39a-4548-9879-14af6f9b4d50/usa-traceroute-para-ver-los-saltos)
 27. [Analiza una salida de traceroute](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/aede4401-f6bc-4f44-89dd-b555f1961007/analiza-una-salida-de-traceroute)
 28. [Miniproyecto de puesta en marcha: documentar la ruta de un paquete a un sitio web](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/e9b82e18-9920-4784-a20f-494bd03ac0e3/miniproyecto-de-puesta-en-marcha-documentar-la-ruta-de-un-paquete-a-un-sitio-web)
+29. [Establecer un protocolo de enlace TCP a través de netcat](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/b72b4159-2af6-4602-af63-7ae5ed388c7e/establecer-un-protocolo-de-enlace-tcp-a-travs-de-netcat)
 

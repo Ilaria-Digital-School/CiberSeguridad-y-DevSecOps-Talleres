@@ -35,3 +35,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [27. Analiza una salida de traceroute](27-analiza-una-salida-de-traceroute/)
 - [28. Miniproyecto de puesta en marcha: documentar la ruta de un paquete a un sitio web](28-miniproyecto-de-puesta-en-marcha-documentar-la-ruta-de-un-paquete-a-un-sitio-web/)
 - [29. Establecer un protocolo de enlace TCP a través de netcat](29-establecer-un-protocolo-de-enlace-tcp-a-trav-s-de-netcat/)
+- [30. Escanear puertos con Nmap (nivel principiante)](30-escanear-puertos-con-nmap-nivel-principiante/)

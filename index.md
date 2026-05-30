@@ -44,4 +44,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 30. [Escanear puertos con Nmap (nivel principiante)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/f2644b85-713f-4644-9334-89f7fa99e087/escanear-puertos-con-nmap-nivel-principiante)
 31. [Capturar un protocolo de enlace TCP con Wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/881ea9a4-5c3f-45c3-9014-6ba3d6daf04c/capturar-un-protocolo-de-enlace-tcp-con-wireshark)
 32. [Filtra el tráfico de DNS UDP](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/718e701f-b134-4052-8018-1e9d16efa065/filtra-el-trafico-de-dns-udp)
+33. [Calcular el rango de direcciones /24 y /26](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/6aae7bbf-07d8-4978-864f-88d70b1c2afd/calcular-el-rango-de-direcciones-24-y-26)
 

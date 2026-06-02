@@ -39,3 +39,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [31. Capturar un protocolo de enlace TCP con Wireshark](31-capturar-un-protocolo-de-enlace-tcp-con-wireshark/)
 - [32. Filtra el tráfico de DNS UDP](32-filtra-el-tr-fico-de-dns-udp/)
 - [33. Calcular el rango de direcciones /24 y /26](33-calcular-el-rango-de-direcciones-24-y-26/)
+- [34. Ajustar la subred según sea necesario](34-ajustar-la-subred-seg-n-sea-necesario/)

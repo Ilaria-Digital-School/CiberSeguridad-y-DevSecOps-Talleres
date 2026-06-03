@@ -1,0 +1,2 @@
+<?php
+// Lea la tabla de enrutamiento de máquinas virtuales Linux

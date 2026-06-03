@@ -40,3 +40,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [32. Filtra el tráfico de DNS UDP](32-filtra-el-tr-fico-de-dns-udp/)
 - [33. Calcular el rango de direcciones /24 y /26](33-calcular-el-rango-de-direcciones-24-y-26/)
 - [34. Ajustar la subred según sea necesario](34-ajustar-la-subred-seg-n-sea-necesario/)
+- [35. Lea la tabla de enrutamiento de máquinas virtuales Linux](35-lea-la-tabla-de-enrutamiento-de-m-quinas-virtuales-linux/)

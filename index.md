@@ -46,4 +46,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 32. [Filtra el tráfico de DNS UDP](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/718e701f-b134-4052-8018-1e9d16efa065/filtra-el-trafico-de-dns-udp)
 33. [Calcular el rango de direcciones /24 y /26](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/6aae7bbf-07d8-4978-864f-88d70b1c2afd/calcular-el-rango-de-direcciones-24-y-26)
 34. [Ajustar la subred según sea necesario](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/e6fe4127-e2e4-4fa6-8c8f-0932f40573b4/ajustar-la-subred-segun-sea-necesario)
+35. [Lea la tabla de enrutamiento de máquinas virtuales Linux](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/4fc82097-c5c9-48e9-9dff-ab52e221cb35/lea-la-tabla-de-enrutamiento-de-maquinas-virtuales-linux)
 

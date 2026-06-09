@@ -48,4 +48,6 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 34. [Ajustar la subred según sea necesario](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/e6fe4127-e2e4-4fa6-8c8f-0932f40573b4/ajustar-la-subred-segun-sea-necesario)
 35. [Lea la tabla de enrutamiento de máquinas virtuales Linux](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/4fc82097-c5c9-48e9-9dff-ab52e221cb35/lea-la-tabla-de-enrutamiento-de-maquinas-virtuales-linux)
 36. [Rastrea una conexión de Natée con los registros de iptables](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/3f005c87-216b-42a6-a681-506ddf2ae31a/rastrea-una-conexion-de-natee-con-los-registros-de-iptables)
+37. [Resolver y detectar una búsqueda de DNS](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/dfb32da4-4766-4a04-a60e-779017810788/resolver-y-detectar-una-busqueda-de-dns)
+38. [Manipular el archivo hosts para anularlo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/5002302b-7a54-4ccb-a0f6-36715f79be6b/manipular-el-archivo-hosts-para-anularlo)
 

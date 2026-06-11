@@ -50,4 +50,6 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 36. [Rastrea una conexión de Natée con los registros de iptables](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/3f005c87-216b-42a6-a681-506ddf2ae31a/rastrea-una-conexion-de-natee-con-los-registros-de-iptables)
 37. [Resolver y detectar una búsqueda de DNS](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/dfb32da4-4766-4a04-a60e-779017810788/resolver-y-detectar-una-busqueda-de-dns)
 38. [Manipular el archivo hosts para anularlo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/5002302b-7a54-4ccb-a0f6-36715f79be6b/manipular-el-archivo-hosts-para-anularlo)
+39. [Análisis de una solicitud HTTP en Wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/a889cd4f-6ae8-49ed-83b2-663ec016907b/analisis-de-una-solicitud-http-en-wireshark)
+40. [Tráfico completo: desde la solicitud HTTP hasta la respuesta (diagrama anotado)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/b33d9384-314e-48ca-8d8d-99981c20748f/trafico-completo-desde-la-solicitud-http-hasta-la-respuesta-diagrama-anotado)
 

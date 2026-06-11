@@ -44,3 +44,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [36. Rastrea una conexión de Natée con los registros de iptables](36-rastrea-una-conexi-n-de-nat-e-con-los-registros-de-iptables/)
 - [37. Resolver y detectar una búsqueda de DNS](37-resolver-y-detectar-una-b-squeda-de-dns/)
 - [38. Manipular el archivo hosts para anularlo](38-manipular-el-archivo-hosts-para-anularlo/)
+- [39. Análisis de una solicitud HTTP en Wireshark](39-an-lisis-de-una-solicitud-http-en-wireshark/)
+- [40. Tráfico completo: desde la solicitud HTTP hasta la respuesta (diagrama anotado)](40-tr-fico-completo-desde-la-solicitud-http-hasta-la-respuesta-diagrama-anotado/)

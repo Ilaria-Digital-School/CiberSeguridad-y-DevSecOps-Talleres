@@ -52,4 +52,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 38. [Manipular el archivo hosts para anularlo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/5002302b-7a54-4ccb-a0f6-36715f79be6b/manipular-el-archivo-hosts-para-anularlo)
 39. [Análisis de una solicitud HTTP en Wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/a889cd4f-6ae8-49ed-83b2-663ec016907b/analisis-de-una-solicitud-http-en-wireshark)
 40. [Tráfico completo: desde la solicitud HTTP hasta la respuesta (diagrama anotado)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/b33d9384-314e-48ca-8d8d-99981c20748f/trafico-completo-desde-la-solicitud-http-hasta-la-respuesta-diagrama-anotado)
+41. [Taller: declaración de variables y visualización de sus tipos](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/56c3d99d-e99c-45e2-8ca8-cf186515fe7c/taller-declaracion-de-variables-y-visualizacion-de-sus-tipos)
 

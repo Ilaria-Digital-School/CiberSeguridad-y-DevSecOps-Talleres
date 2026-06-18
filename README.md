@@ -46,3 +46,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [38. Manipular el archivo hosts para anularlo](38-manipular-el-archivo-hosts-para-anularlo/)
 - [39. Análisis de una solicitud HTTP en Wireshark](39-an-lisis-de-una-solicitud-http-en-wireshark/)
 - [40. Tráfico completo: desde la solicitud HTTP hasta la respuesta (diagrama anotado)](40-tr-fico-completo-desde-la-solicitud-http-hasta-la-respuesta-diagrama-anotado/)
+- [41. Taller: declaración de variables y visualización de sus tipos](41-taller-declaraci-n-de-variables-y-visualizaci-n-de-sus-tipos/)

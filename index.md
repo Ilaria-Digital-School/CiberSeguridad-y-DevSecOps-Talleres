@@ -54,4 +54,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 40. [Tráfico completo: desde la solicitud HTTP hasta la respuesta (diagrama anotado)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/8a66fef7-fdbd-45dd-b050-98bd354eb963/b33d9384-314e-48ca-8d8d-99981c20748f/trafico-completo-desde-la-solicitud-http-hasta-la-respuesta-diagrama-anotado)
 41. [Taller: declaración de variables y visualización de sus tipos](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/56c3d99d-e99c-45e2-8ca8-cf186515fe7c/taller-declaracion-de-variables-y-visualizacion-de-sus-tipos)
 42. [Taller de : conversiones de tipos y operaciones sencillas](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/0f8e3afa-6b00-404a-81ae-93aed1a6bad4/taller-de-conversiones-de-tipos-y-operaciones-sencillas)
+43. [Taller: alerta si un puerto está reservado (<1024)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/db0c6ac6-2395-46b0-a085-33165ee09602/taller-alerta-si-un-puerto-esta-reservado-1024)
 

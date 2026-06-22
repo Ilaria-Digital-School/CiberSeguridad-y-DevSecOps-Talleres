@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: asocia cada término con un caso concreto

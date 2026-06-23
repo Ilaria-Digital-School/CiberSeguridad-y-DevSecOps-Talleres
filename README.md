@@ -49,3 +49,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [41. Taller: declaración de variables y visualización de sus tipos](41-taller-declaraci-n-de-variables-y-visualizaci-n-de-sus-tipos/)
 - [42. Taller de : conversiones de tipos y operaciones sencillas](42-taller-de-conversiones-de-tipos-y-operaciones-sencillas/)
 - [43. Taller: alerta si un puerto está reservado (<1024)](43-taller-alerta-si-un-puerto-est-reservado-1024/)
+- [44. Taller: recorre una secuencia de puertos con for](44-taller-recorre-una-secuencia-de-puertos-con-for/)

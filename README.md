@@ -51,3 +51,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [43. Taller: alerta si un puerto está reservado (<1024)](43-taller-alerta-si-un-puerto-est-reservado-1024/)
 - [44. Taller: recorre una secuencia de puertos con for](44-taller-recorre-una-secuencia-de-puertos-con-for/)
 - [45. Taller de : mientras recorres el bucle hasta el puerto 0](45-taller-de-mientras-recorres-el-bucle-hasta-el-puerto-0/)
+- [46. Taller: crear hello.py configurable](46-taller-crear-hello-py-configurable/)

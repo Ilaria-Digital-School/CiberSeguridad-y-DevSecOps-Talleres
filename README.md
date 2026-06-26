@@ -52,3 +52,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [44. Taller: recorre una secuencia de puertos con for](44-taller-recorre-una-secuencia-de-puertos-con-for/)
 - [45. Taller de : mientras recorres el bucle hasta el puerto 0](45-taller-de-mientras-recorres-el-bucle-hasta-el-puerto-0/)
 - [46. Taller: crear hello.py configurable](46-taller-crear-hello-py-configurable/)
+- [47. Taller de : simulación de una tarea simple programada](47-taller-de-simulaci-n-de-una-tarea-simple-programada/)

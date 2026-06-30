@@ -54,3 +54,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [46. Taller: crear hello.py configurable](46-taller-crear-hello-py-configurable/)
 - [47. Taller de : simulación de una tarea simple programada](47-taller-de-simulaci-n-de-una-tarea-simple-programada/)
 - [48. Taller: función est_pair (port)](48-taller-funci-n-est-pair-port/)
+- [49. Taller: minimenú interactivo para elegir una acción](49-taller-minimen-interactivo-para-elegir-una-acci-n/)

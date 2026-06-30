@@ -60,4 +60,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 46. [Taller: crear hello.py configurable](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/dfc69709-28ef-4350-a334-7f70500ce552/taller-crear-hello-py-configurable)
 47. [Taller de : simulación de una tarea simple programada](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/d839da2f-a9a6-4e17-b385-a6f4701ad44a/taller-de-simulacion-de-una-tarea-simple-programada)
 48. [Taller: función est_pair (port)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/a511e905-3138-4a70-b6d4-f368a2da209b/taller-funcion-est-pair-port)
+49. [Taller: minimenú interactivo para elegir una acción](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/1d3b9d4e-11f0-4c8a-a31b-028df1b92f8d/taller-minimenu-interactivo-para-elegir-una-accion)
 

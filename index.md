@@ -62,4 +62,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 48. [Taller: función est_pair (port)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/a511e905-3138-4a70-b6d4-f368a2da209b/taller-funcion-est-pair-port)
 49. [Taller: minimenú interactivo para elegir una acción](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/1d3b9d4e-11f0-4c8a-a31b-028df1b92f8d/taller-minimenu-interactivo-para-elegir-una-accion)
 50. [Taller: lectura de un registro y recuento de líneas de ERROR](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/377d252b-6c9d-4272-a562-56ef7ef39b1f/taller-lectura-de-un-registro-y-recuento-de-lineas-de-error)
+51. [Taller: administración de FileNotFoundError en el registro](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/94044db3-5f54-4bdb-a07f-0334a8a10780/taller-administracion-de-filenotfounderror-en-el-registro)
 

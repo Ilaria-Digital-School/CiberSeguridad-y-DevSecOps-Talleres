@@ -63,4 +63,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 49. [Taller: minimenú interactivo para elegir una acción](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/1d3b9d4e-11f0-4c8a-a31b-028df1b92f8d/taller-minimenu-interactivo-para-elegir-una-accion)
 50. [Taller: lectura de un registro y recuento de líneas de ERROR](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/377d252b-6c9d-4272-a562-56ef7ef39b1f/taller-lectura-de-un-registro-y-recuento-de-lineas-de-error)
 51. [Taller: administración de FileNotFoundError en el registro](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/94044db3-5f54-4bdb-a07f-0334a8a10780/taller-administracion-de-filenotfounderror-en-el-registro)
+52. [Taller: creación e importación de utils.py](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/300c5ad8-0b0a-4cf6-9953-9141400ece3a/taller-creacion-e-importacion-de-utils-py)
 

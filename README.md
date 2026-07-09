@@ -58,3 +58,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [50. Taller: lectura de un registro y recuento de líneas de ERROR](50-taller-lectura-de-un-registro-y-recuento-de-l-neas-de-error/)
 - [51. Taller: administración de FileNotFoundError en el registro](51-taller-administraci-n-de-filenotfounderror-en-el-registro/)
 - [52. Taller: creación e importación de utils.py](52-taller-creaci-n-e-importaci-n-de-utils-py/)
+- [53. Taller: script que ejecuta 'ping' y guarda la salida](53-taller-script-que-ejecuta-ping-y-guarda-la-salida/)

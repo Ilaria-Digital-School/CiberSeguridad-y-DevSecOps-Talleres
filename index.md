@@ -65,4 +65,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 51. [Taller: administración de FileNotFoundError en el registro](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/94044db3-5f54-4bdb-a07f-0334a8a10780/taller-administracion-de-filenotfounderror-en-el-registro)
 52. [Taller: creación e importación de utils.py](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/300c5ad8-0b0a-4cf6-9953-9141400ece3a/taller-creacion-e-importacion-de-utils-py)
 53. [Taller: script que ejecuta 'ping' y guarda la salida](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/124ee508-6ecf-4d77-9aab-d5f82719ded2/taller-script-que-ejecuta-ping-y-guarda-la-salida)
+54. [Taller de : configuración del número de paquetes ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/eb846eec-a402-43bb-b96b-1ed73ee44ea6/taller-de-configuracion-del-numero-de-paquetes-ping)
 

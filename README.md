@@ -60,3 +60,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [52. Taller: creación e importación de utils.py](52-taller-creaci-n-e-importaci-n-de-utils-py/)
 - [53. Taller: script que ejecuta 'ping' y guarda la salida](53-taller-script-que-ejecuta-ping-y-guarda-la-salida/)
 - [54. Taller de : configuración del número de paquetes ping](54-taller-de-configuraci-n-del-n-mero-de-paquetes-ping/)
+- [55. Taller: crea una lista de puertos y compruébalo](55-taller-crea-una-lista-de-puertos-y-compru-balo/)
+- [56. Taller de : puerto → diccionario de servicios](56-taller-de-puerto-diccionario-de-servicios/)

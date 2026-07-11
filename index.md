@@ -66,4 +66,6 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 52. [Taller: creación e importación de utils.py](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/300c5ad8-0b0a-4cf6-9953-9141400ece3a/taller-creacion-e-importacion-de-utils-py)
 53. [Taller: script que ejecuta 'ping' y guarda la salida](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/124ee508-6ecf-4d77-9aab-d5f82719ded2/taller-script-que-ejecuta-ping-y-guarda-la-salida)
 54. [Taller de : configuración del número de paquetes ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/eb846eec-a402-43bb-b96b-1ed73ee44ea6/taller-de-configuracion-del-numero-de-paquetes-ping)
+55. [Taller: crea una lista de puertos y compruébalo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/a6a9ac58-24ba-44d2-9758-884aa34fe0e2/taller-crea-una-lista-de-puertos-y-compruebalo)
+56. [Taller de : puerto → diccionario de servicios](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/e89c3011-64d5-4bd3-b601-abcdf8a7b250/taller-de-puerto-diccionario-de-servicios)
 

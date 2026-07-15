@@ -62,3 +62,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [54. Taller de : configuración del número de paquetes ping](54-taller-de-configuraci-n-del-n-mero-de-paquetes-ping/)
 - [55. Taller: crea una lista de puertos y compruébalo](55-taller-crea-una-lista-de-puertos-y-compru-balo/)
 - [56. Taller de : puerto → diccionario de servicios](56-taller-de-puerto-diccionario-de-servicios/)
+- [57. Taller: extracción de todas las direcciones IP de un registro](57-taller-extracci-n-de-todas-las-direcciones-ip-de-un-registro/)

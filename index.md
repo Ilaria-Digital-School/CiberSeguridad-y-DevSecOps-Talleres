@@ -70,4 +70,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 56. [Taller de : puerto → diccionario de servicios](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/e89c3011-64d5-4bd3-b601-abcdf8a7b250/taller-de-puerto-diccionario-de-servicios)
 57. [Taller: extracción de todas las direcciones IP de un registro](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/2a1da0b5-e3ca-4dec-bee7-2634d1c125a3/taller-extraccion-de-todas-las-direcciones-ip-de-un-registro)
 58. [Taller: escanea los puertos 20 a 25 de un objetivo local](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/79fedb1a-c6a8-4322-a79b-8668a687c03f/taller-escanea-los-puertos-20-a-25-de-un-objetivo-local)
+59. [Paso 1 del miniproyecto: Nmap wrapper (tiempo de ejecución + captura XML)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/3a866ece-7d9c-45bb-b210-4f08d94d42a4/paso-1-del-miniproyecto-nmap-wrapper-tiempo-de-ejecucion-captura-xml)
 

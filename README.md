@@ -65,3 +65,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [57. Taller: extracción de todas las direcciones IP de un registro](57-taller-extracci-n-de-todas-las-direcciones-ip-de-un-registro/)
 - [58. Taller: escanea los puertos 20 a 25 de un objetivo local](58-taller-escanea-los-puertos-20-a-25-de-un-objetivo-local/)
 - [59. Paso 1 del miniproyecto: Nmap wrapper (tiempo de ejecución + captura XML)](59-paso-1-del-miniproyecto-nmap-wrapper-tiempo-de-ejecuci-n-captura-xml/)
+- [60. Taller: compruebe la presencia de X-Frame-Options](60-taller-compruebe-la-presencia-de-x-frame-options/)

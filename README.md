@@ -66,3 +66,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [58. Taller: escanea los puertos 20 a 25 de un objetivo local](58-taller-escanea-los-puertos-20-a-25-de-un-objetivo-local/)
 - [59. Paso 1 del miniproyecto: Nmap wrapper (tiempo de ejecución + captura XML)](59-paso-1-del-miniproyecto-nmap-wrapper-tiempo-de-ejecuci-n-captura-xml/)
 - [60. Taller: compruebe la presencia de X-Frame-Options](60-taller-compruebe-la-presencia-de-x-frame-options/)
+- [61. Taller reforzado: aplicación de las mejores prácticas a hello.py](61-taller-reforzado-aplicaci-n-de-las-mejores-pr-cticas-a-hello-py/)
+- [62. Miniproyecto final: script de auditoría básico (ping, nmap, encabezados) con informe](62-miniproyecto-final-script-de-auditor-a-b-sico-ping-nmap-encabezados-con-informe/)

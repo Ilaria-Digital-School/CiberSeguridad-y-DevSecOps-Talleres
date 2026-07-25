@@ -74,4 +74,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 60. [Taller: compruebe la presencia de X-Frame-Options](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/e029f823-e7d4-48ff-9d26-5201870d02d1/taller-compruebe-la-presencia-de-x-frame-options)
 61. [Taller reforzado: aplicación de las mejores prácticas a hello.py](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/f7d5918f-a290-4632-8683-9d5909d4e534/taller-reforzado-aplicacion-de-las-mejores-practicas-a-hello-py)
 62. [Miniproyecto final: script de auditoría básico (ping, nmap, encabezados) con informe](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/010b081b-f5f1-47fc-8f1f-e36370412021/miniproyecto-final-script-de-auditoria-basico-ping-nmap-encabezados-con-informe)
+63. [Primeros pasos: pwd, ls, clear](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/4463ba7b-6aee-48e9-ab5a-55d906e7c121/primeros-pasos-pwd-ls-clear)
 

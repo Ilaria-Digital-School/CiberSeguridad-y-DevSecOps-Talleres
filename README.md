@@ -68,3 +68,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [60. Taller: compruebe la presencia de X-Frame-Options](60-taller-compruebe-la-presencia-de-x-frame-options/)
 - [61. Taller reforzado: aplicación de las mejores prácticas a hello.py](61-taller-reforzado-aplicaci-n-de-las-mejores-pr-cticas-a-hello-py/)
 - [62. Miniproyecto final: script de auditoría básico (ping, nmap, encabezados) con informe](62-miniproyecto-final-script-de-auditor-a-b-sico-ping-nmap-encabezados-con-informe/)
+- [63. Primeros pasos: pwd, ls, clear](63-primeros-pasos-pwd-ls-clear/)

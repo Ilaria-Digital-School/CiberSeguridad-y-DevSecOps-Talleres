@@ -76,4 +76,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 62. [Miniproyecto final: script de auditoría básico (ping, nmap, encabezados) con informe](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/763d7742-4f86-49e5-9ed8-af9413683972/010b081b-f5f1-47fc-8f1f-e36370412021/miniproyecto-final-script-de-auditoria-basico-ping-nmap-encabezados-con-informe)
 63. [Primeros pasos: pwd, ls, clear](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/4463ba7b-6aee-48e9-ab5a-55d906e7c121/primeros-pasos-pwd-ls-clear)
 64. [Navegación (cd, rutas)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/1c88c030-28b8-4571-969f-f31792c8209d/navegacion-cd-rutas)
+65. [Explora con un árbol](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/8ca6fb16-81f4-4cc3-aa05-f248e556fa8f/explora-con-un-arbol)
 

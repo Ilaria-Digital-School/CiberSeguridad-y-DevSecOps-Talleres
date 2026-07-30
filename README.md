@@ -70,3 +70,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [62. Miniproyecto final: script de auditoría básico (ping, nmap, encabezados) con informe](62-miniproyecto-final-script-de-auditor-a-b-sico-ping-nmap-encabezados-con-informe/)
 - [63. Primeros pasos: pwd, ls, clear](63-primeros-pasos-pwd-ls-clear/)
 - [64. Navegación (cd, rutas)](64-navegaci-n-cd-rutas/)
+- [65. Explora con un árbol](65-explora-con-un-rbol/)

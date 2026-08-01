@@ -71,3 +71,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [63. Primeros pasos: pwd, ls, clear](63-primeros-pasos-pwd-ls-clear/)
 - [64. Navegación (cd, rutas)](64-navegaci-n-cd-rutas/)
 - [65. Explora con un árbol](65-explora-con-un-rbol/)
+- [66. Copie, mueva y elimine de forma segura](66-copie-mueva-y-elimine-de-forma-segura/)

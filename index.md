@@ -77,4 +77,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 63. [Primeros pasos: pwd, ls, clear](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/4463ba7b-6aee-48e9-ab5a-55d906e7c121/primeros-pasos-pwd-ls-clear)
 64. [Navegación (cd, rutas)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/1c88c030-28b8-4571-969f-f31792c8209d/navegacion-cd-rutas)
 65. [Explora con un árbol](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/8ca6fb16-81f4-4cc3-aa05-f248e556fa8f/explora-con-un-arbol)
+66. [Copie, mueva y elimine de forma segura](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/5fee5277-8568-4c14-b819-20cf76261947/copie-mueva-y-elimine-de-forma-segura)
 

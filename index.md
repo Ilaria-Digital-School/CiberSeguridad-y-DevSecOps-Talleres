@@ -79,4 +79,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 65. [Explora con un árbol](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/8ca6fb16-81f4-4cc3-aa05-f248e556fa8f/explora-con-un-arbol)
 66. [Copie, mueva y elimine de forma segura](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/5fee5277-8568-4c14-b819-20cf76261947/copie-mueva-y-elimine-de-forma-segura)
 67. [Chmod simbólico paso a paso](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/c57495ed-c8d3-4b11-911d-b3efa5d30ac5/chmod-simbolico-paso-a-paso)
+68. [Chmod digital 755/644](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/cbeec9d1-8179-4187-a9d5-76307e520b30/chmod-digital-755-644)
 

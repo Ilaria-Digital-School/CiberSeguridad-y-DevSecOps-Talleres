@@ -73,3 +73,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [65. Explora con un árbol](65-explora-con-un-rbol/)
 - [66. Copie, mueva y elimine de forma segura](66-copie-mueva-y-elimine-de-forma-segura/)
 - [67. Chmod simbólico paso a paso](67-chmod-simb-lico-paso-a-paso/)
+- [68. Chmod digital 755/644](68-chmod-digital-755-644/)

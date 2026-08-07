@@ -1,0 +1,1 @@
+// Proteger una carpeta compartida

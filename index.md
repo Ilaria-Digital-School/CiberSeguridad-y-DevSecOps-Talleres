@@ -80,4 +80,6 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 66. [Copie, mueva y elimine de forma segura](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/5fee5277-8568-4c14-b819-20cf76261947/copie-mueva-y-elimine-de-forma-segura)
 67. [Chmod simbólico paso a paso](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/c57495ed-c8d3-4b11-911d-b3efa5d30ac5/chmod-simbolico-paso-a-paso)
 68. [Chmod digital 755/644](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/cbeec9d1-8179-4187-a9d5-76307e520b30/chmod-digital-755-644)
+69. [Chown y chgrp](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/5df984b3-54e3-4865-a492-5e0a0347f711/chown-y-chgrp)
+70. [Proteger una carpeta compartida](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/832d715a-8185-4c42-9ebb-1af7e3cfccd7/proteger-una-carpeta-compartida)
 

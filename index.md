@@ -82,4 +82,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 68. [Chmod digital 755/644](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/cbeec9d1-8179-4187-a9d5-76307e520b30/chmod-digital-755-644)
 69. [Chown y chgrp](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/5df984b3-54e3-4865-a492-5e0a0347f711/chown-y-chgrp)
 70. [Proteger una carpeta compartida](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/832d715a-8185-4c42-9ebb-1af7e3cfccd7/proteger-una-carpeta-compartida)
+71. [Listar y filtrar procesos](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/9f06dece-0c1a-4ffc-8d88-3cf30f1d7b10/listar-y-filtrar-procesos)
 

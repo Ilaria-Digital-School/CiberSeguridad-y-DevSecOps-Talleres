@@ -77,3 +77,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [69. Chown y chgrp](69-chown-y-chgrp/)
 - [70. Proteger una carpeta compartida](70-proteger-una-carpeta-compartida/)
 - [71. Listar y filtrar procesos](71-listar-y-filtrar-procesos/)
+- [72. Señales y muerte en la práctica](72-se-ales-y-muerte-en-la-pr-ctica/)

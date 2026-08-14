@@ -84,4 +84,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 70. [Proteger una carpeta compartida](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/832d715a-8185-4c42-9ebb-1af7e3cfccd7/proteger-una-carpeta-compartida)
 71. [Listar y filtrar procesos](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/9f06dece-0c1a-4ffc-8d88-3cf30f1d7b10/listar-y-filtrar-procesos)
 72. [Señales y muerte en la práctica](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/428f5257-9d78-40bc-9b8a-6c0ebab9dd6d/senales-y-muerte-en-la-practica)
+73. [Iniciar, detener o activar un servicio](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/088a917a-ebb7-4602-9f1e-383797d4ab26/iniciar-detener-o-activar-un-servicio)
 

@@ -81,3 +81,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [73. Iniciar, detener o activar un servicio](73-iniciar-detener-o-activar-un-servicio/)
 - [74. Identifique las interfaces y los puertos abiertos](74-identifique-las-interfaces-y-los-puertos-abiertos/)
 - [75. Estado de la red de documentos](75-estado-de-la-red-de-documentos/)
+- [76. Instala nmap y wireshark](76-instala-nmap-y-wireshark/)

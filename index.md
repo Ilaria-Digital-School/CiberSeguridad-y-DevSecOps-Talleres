@@ -88,4 +88,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 74. [Identifique las interfaces y los puertos abiertos](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/da09a465-4b54-442c-9b92-0f9c28774411/identifique-las-interfaces-y-los-puertos-abiertos)
 75. [Estado de la red de documentos](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/ac4c47d6-ebc6-44a9-96ad-87b41906d849/estado-de-la-red-de-documentos)
 76. [Instala nmap y wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/3f363d22-dcb8-4f65-b16b-0d7b4e174ec3/instala-nmap-y-wireshark)
+77. [Escribir un script de respaldo /etc](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/ecabbc30-e1d8-4a82-8f3f-cb888606f6b4/escribir-un-script-de-respaldo-etc)
 

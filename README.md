@@ -82,3 +82,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [74. Identifique las interfaces y los puertos abiertos](74-identifique-las-interfaces-y-los-puertos-abiertos/)
 - [75. Estado de la red de documentos](75-estado-de-la-red-de-documentos/)
 - [76. Instala nmap y wireshark](76-instala-nmap-y-wireshark/)
+- [77. Escribir un script de respaldo /etc](77-escribir-un-script-de-respaldo-etc/)

@@ -83,3 +83,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [75. Estado de la red de documentos](75-estado-de-la-red-de-documentos/)
 - [76. Instala nmap y wireshark](76-instala-nmap-y-wireshark/)
 - [77. Escribir un script de respaldo /etc](77-escribir-un-script-de-respaldo-etc/)
+- [78. Hágalo ejecutable y programe mediante cron](78-h-galo-ejecutable-y-programe-mediante-cron/)

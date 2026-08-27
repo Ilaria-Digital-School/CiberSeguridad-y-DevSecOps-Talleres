@@ -84,3 +84,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [76. Instala nmap y wireshark](76-instala-nmap-y-wireshark/)
 - [77. Escribir un script de respaldo /etc](77-escribir-un-script-de-respaldo-etc/)
 - [78. Hágalo ejecutable y programe mediante cron](78-h-galo-ejecutable-y-programe-mediante-cron/)
+- [79. Crear un usuario de pentest restringido](79-crear-un-usuario-de-pentest-restringido/)

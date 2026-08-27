@@ -90,4 +90,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 76. [Instala nmap y wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/3f363d22-dcb8-4f65-b16b-0d7b4e174ec3/instala-nmap-y-wireshark)
 77. [Escribir un script de respaldo /etc](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/ecabbc30-e1d8-4a82-8f3f-cb888606f6b4/escribir-un-script-de-respaldo-etc)
 78. [Hágalo ejecutable y programe mediante cron](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/34dc3689-0cd2-469a-a541-55a01be15081/hagalo-ejecutable-y-programe-mediante-cron)
+79. [Crear un usuario de pentest restringido](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/5735047c-0fa5-4857-8a9c-8f95f2cbb59f/crear-un-usuario-de-pentest-restringido)
 

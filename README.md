@@ -85,3 +85,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [77. Escribir un script de respaldo /etc](77-escribir-un-script-de-respaldo-etc/)
 - [78. Hágalo ejecutable y programe mediante cron](78-h-galo-ejecutable-y-programe-mediante-cron/)
 - [79. Crear un usuario de pentest restringido](79-crear-un-usuario-de-pentest-restringido/)
+- [80. Analice /var/log/auth.log en busca de detecciones](80-analice-var-log-auth-log-en-busca-de-detecciones/)

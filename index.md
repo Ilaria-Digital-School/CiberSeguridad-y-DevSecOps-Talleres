@@ -91,4 +91,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 77. [Escribir un script de respaldo /etc](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/ecabbc30-e1d8-4a82-8f3f-cb888606f6b4/escribir-un-script-de-respaldo-etc)
 78. [Hágalo ejecutable y programe mediante cron](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/34dc3689-0cd2-469a-a541-55a01be15081/hagalo-ejecutable-y-programe-mediante-cron)
 79. [Crear un usuario de pentest restringido](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/5735047c-0fa5-4857-8a9c-8f95f2cbb59f/crear-un-usuario-de-pentest-restringido)
+80. [Analice /var/log/auth.log en busca de detecciones](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/110dbe8e-cdec-49b7-8919-c9220f10ccf9/analice-var-log-auth-log-en-busca-de-detecciones)
 

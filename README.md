@@ -86,3 +86,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [78. Hágalo ejecutable y programe mediante cron](78-h-galo-ejecutable-y-programe-mediante-cron/)
 - [79. Crear un usuario de pentest restringido](79-crear-un-usuario-de-pentest-restringido/)
 - [80. Analice /var/log/auth.log en busca de detecciones](80-analice-var-log-auth-log-en-busca-de-detecciones/)
+- [81. Aplique una lista de verificación de endurecimiento en VM labo](81-aplique-una-lista-de-verificaci-n-de-endurecimiento-en-vm-labo/)

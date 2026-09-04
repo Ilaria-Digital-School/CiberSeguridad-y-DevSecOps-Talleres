@@ -87,3 +87,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [79. Crear un usuario de pentest restringido](79-crear-un-usuario-de-pentest-restringido/)
 - [80. Analice /var/log/auth.log en busca de detecciones](80-analice-var-log-auth-log-en-busca-de-detecciones/)
 - [81. Aplique una lista de verificación de endurecimiento en VM labo](81-aplique-una-lista-de-verificaci-n-de-endurecimiento-en-vm-labo/)
+- [82. Localice los activos en una aplicación de «Lista de tareas pendientes»](82-localice-los-activos-en-una-aplicaci-n-de-lista-de-tareas-pendientes/)

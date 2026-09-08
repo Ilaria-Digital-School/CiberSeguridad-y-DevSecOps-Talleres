@@ -94,4 +94,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 80. [Analice /var/log/auth.log en busca de detecciones](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/110dbe8e-cdec-49b7-8919-c9220f10ccf9/analice-var-log-auth-log-en-busca-de-detecciones)
 81. [Aplique una lista de verificación de endurecimiento en VM labo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/ecc48bb2-5471-4708-892b-39238ea24fdb/aae73605-d685-44d2-a9da-5309494ab1c3/aplique-una-lista-de-verificacion-de-endurecimiento-en-vm-labo)
 82. [Localice los activos en una aplicación de «Lista de tareas pendientes»](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/c882bb54-e298-47f6-a7d2-cf7b2bd66458/localice-los-activos-en-una-aplicacion-de-lista-de-tareas-pendientes)
+83. [Clasifique los impactos de la CIA en los activos de Todo List](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/e517e89f-cc6a-45a6-b524-ad92f8d24498/clasifique-los-impactos-de-la-cia-en-los-activos-de-todo-list)
 

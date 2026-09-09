@@ -89,3 +89,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [81. Aplique una lista de verificación de endurecimiento en VM labo](81-aplique-una-lista-de-verificaci-n-de-endurecimiento-en-vm-labo/)
 - [82. Localice los activos en una aplicación de «Lista de tareas pendientes»](82-localice-los-activos-en-una-aplicaci-n-de-lista-de-tareas-pendientes/)
 - [83. Clasifique los impactos de la CIA en los activos de Todo List](83-clasifique-los-impactos-de-la-cia-en-los-activos-de-todo-list/)
+- [84. Asocie los escenarios de riesgo con los 10 principales de OWASP (mapas)](84-asocie-los-escenarios-de-riesgo-con-los-10-principales-de-owasp-mapas/)

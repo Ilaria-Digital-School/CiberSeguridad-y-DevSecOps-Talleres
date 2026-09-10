@@ -90,3 +90,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [82. Localice los activos en una aplicación de «Lista de tareas pendientes»](82-localice-los-activos-en-una-aplicaci-n-de-lista-de-tareas-pendientes/)
 - [83. Clasifique los impactos de la CIA en los activos de Todo List](83-clasifique-los-impactos-de-la-cia-en-los-activos-de-todo-list/)
 - [84. Asocie los escenarios de riesgo con los 10 principales de OWASP (mapas)](84-asocie-los-escenarios-de-riesgo-con-los-10-principales-de-owasp-mapas/)
+- [85. Divida la aplicación de blog simplificada en componentes](85-divida-la-aplicaci-n-de-blog-simplificada-en-componentes/)

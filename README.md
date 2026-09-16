@@ -93,3 +93,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [85. Divida la aplicación de blog simplificada en componentes](85-divida-la-aplicaci-n-de-blog-simplificada-en-componentes/)
 - [86. Aplicar STRIDE en el flujo de autenticación](86-aplicar-stride-en-el-flujo-de-autenticaci-n/)
 - [87. de STRIDE en un punto final de API para «crear publicación»](87-de-stride-en-un-punto-final-de-api-para-crear-publicaci-n/)
+- [88. Dibuja el DFD para la aplicación Blog](88-dibuja-el-dfd-para-la-aplicaci-n-blog/)

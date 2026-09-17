@@ -94,3 +94,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [86. Aplicar STRIDE en el flujo de autenticación](86-aplicar-stride-en-el-flujo-de-autenticaci-n/)
 - [87. de STRIDE en un punto final de API para «crear publicación»](87-de-stride-en-un-punto-final-de-api-para-crear-publicaci-n/)
 - [88. Dibuja el DFD para la aplicación Blog](88-dibuja-el-dfd-para-la-aplicaci-n-blog/)
+- [89. Identifique las amenazas de STRIDE en el DFD](89-identifique-las-amenazas-de-stride-en-el-dfd/)

@@ -96,3 +96,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [88. Dibuja el DFD para la aplicación Blog](88-dibuja-el-dfd-para-la-aplicaci-n-blog/)
 - [89. Identifique las amenazas de STRIDE en el DFD](89-identifique-las-amenazas-de-stride-en-el-dfd/)
 - [90. Hilo rojo: creación de una matriz de amenazas completa para el blog](90-hilo-rojo-creaci-n-de-una-matriz-de-amenazas-completa-para-el-blog/)
+- [91. Evalúe el blog según los principios del diseño seguro](91-eval-e-el-blog-seg-n-los-principios-del-dise-o-seguro/)

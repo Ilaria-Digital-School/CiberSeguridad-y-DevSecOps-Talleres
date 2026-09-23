@@ -98,3 +98,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [90. Hilo rojo: creación de una matriz de amenazas completa para el blog](90-hilo-rojo-creaci-n-de-una-matriz-de-amenazas-completa-para-el-blog/)
 - [91. Evalúe el blog según los principios del diseño seguro](91-eval-e-el-blog-seg-n-los-principios-del-dise-o-seguro/)
 - [92. Adaptación de los principios a un microservicio de carga de archivos](92-adaptaci-n-de-los-principios-a-un-microservicio-de-carga-de-archivos/)
+- [93. Mapea la superficie de ataque del blog](93-mapea-la-superficie-de-ataque-del-blog/)
+- [94. Puntúe las amenazas anteriores con la calificación de riesgo de OWASP](94-punt-e-las-amenazas-anteriores-con-la-calificaci-n-de-riesgo-de-owasp/)

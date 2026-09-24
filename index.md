@@ -106,4 +106,5 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 92. [Adaptación de los principios a un microservicio de carga de archivos](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/7ac84e06-2e3a-4cb3-935c-a221f327b8d2/adaptacion-de-los-principios-a-un-microservicio-de-carga-de-archivos)
 93. [Mapea la superficie de ataque del blog](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/1f1aab6b-ddd1-4a92-9074-19f3978de9fb/mapea-la-superficie-de-ataque-del-blog)
 94. [Puntúe las amenazas anteriores con la calificación de riesgo de OWASP](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/30bf3883-0829-4248-809c-e8f6f98c10d0/puntue-las-amenazas-anteriores-con-la-calificacion-de-riesgo-de-owasp)
+95. [de la puntuación en una API de comercio electrónico](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/es/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/01fef874-d160-4a7d-a991-9e60a62e6185/de-la-puntuacion-en-una-api-de-comercio-electronico)
 

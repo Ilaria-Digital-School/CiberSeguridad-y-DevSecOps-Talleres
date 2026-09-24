@@ -100,3 +100,4 @@ Conviértase en especialista en ciberseguridad y DevSecOps: comprenda los riesgo
 - [92. Adaptación de los principios a un microservicio de carga de archivos](92-adaptaci-n-de-los-principios-a-un-microservicio-de-carga-de-archivos/)
 - [93. Mapea la superficie de ataque del blog](93-mapea-la-superficie-de-ataque-del-blog/)
 - [94. Puntúe las amenazas anteriores con la calificación de riesgo de OWASP](94-punt-e-las-amenazas-anteriores-con-la-calificaci-n-de-riesgo-de-owasp/)
+- [95. de la puntuación en una API de comercio electrónico](95-de-la-puntuaci-n-en-una-api-de-comercio-electr-nico/)

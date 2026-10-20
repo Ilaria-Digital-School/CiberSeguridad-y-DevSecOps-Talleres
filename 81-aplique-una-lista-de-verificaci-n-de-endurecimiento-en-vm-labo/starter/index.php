@@ -1,2 +1,0 @@
-<?php
-// Aplique una lista de verificación de endurecimiento en VM labo

@@ -1,2 +1,0 @@
-<?php
-// Chown y chgrp

@@ -1,2 +1,0 @@
-<?php
-// Establecer un protocolo de enlace TCP a través de netcat

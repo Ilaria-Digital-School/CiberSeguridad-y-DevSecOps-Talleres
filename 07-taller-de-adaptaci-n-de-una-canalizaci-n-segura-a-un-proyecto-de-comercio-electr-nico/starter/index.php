@@ -1,2 +1,0 @@
-<?php
-// Taller de : adaptación de una canalización segura a un proyecto de comercio electrónico

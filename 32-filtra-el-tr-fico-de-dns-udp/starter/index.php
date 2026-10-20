@@ -1,2 +1,0 @@
-<?php
-// Filtra el tráfico de DNS UDP

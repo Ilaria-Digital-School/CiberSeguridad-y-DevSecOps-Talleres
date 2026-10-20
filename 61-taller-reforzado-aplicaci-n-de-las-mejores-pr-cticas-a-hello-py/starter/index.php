@@ -1,2 +1,0 @@
-<?php
-// Taller reforzado: aplicación de las mejores prácticas a hello.py

@@ -1,0 +1,2 @@
+<?php
+// Resolver y detectar una búsqueda de DNS

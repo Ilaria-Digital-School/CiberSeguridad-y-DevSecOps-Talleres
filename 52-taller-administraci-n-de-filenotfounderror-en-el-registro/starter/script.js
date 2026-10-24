@@ -1,0 +1,1 @@
+// Taller: administración de FileNotFoundError en el registro

@@ -1,0 +1,2 @@
+<?php
+// Taller: configuración de una regla básica previa a la confirmación

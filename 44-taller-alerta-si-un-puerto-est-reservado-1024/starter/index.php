@@ -1,0 +1,2 @@
+<?php
+// Taller: alerta si un puerto está reservado (<1024)

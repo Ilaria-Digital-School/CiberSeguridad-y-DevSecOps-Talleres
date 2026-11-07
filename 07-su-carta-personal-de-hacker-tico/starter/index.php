@@ -1,0 +1,2 @@
+<?php
+// Su carta personal de hacker ético

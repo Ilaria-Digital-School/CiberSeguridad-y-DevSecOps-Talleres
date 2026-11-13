@@ -1,0 +1,2 @@
+<?php
+// Configurar el aislamiento de su máquina virtual

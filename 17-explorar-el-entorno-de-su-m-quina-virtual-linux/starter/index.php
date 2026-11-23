@@ -1,0 +1,2 @@
+<?php
+// Explorar el entorno de su máquina virtual Linux

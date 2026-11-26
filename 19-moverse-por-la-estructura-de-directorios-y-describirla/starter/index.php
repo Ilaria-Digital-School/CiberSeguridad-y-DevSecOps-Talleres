@@ -1,0 +1,2 @@
+<?php
+// Moverse por la estructura de directorios y describirla

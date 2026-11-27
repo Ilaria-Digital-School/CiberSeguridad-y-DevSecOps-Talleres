@@ -1,0 +1,2 @@
+<?php
+// Mapea la superficie de ataque del blog
